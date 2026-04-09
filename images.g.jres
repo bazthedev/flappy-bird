@@ -1,0 +1,57 @@
+{
+    "image1": {
+        "data": "hwQRAAwAAAAAAP8PAAAAAADwEfUAAAAAAPARUf8AAAAA/xFRTw8AAPD7EVFPDwAA8Fvf9UT0AAAfVfVfRPQAAB9VVVVE9AAAH/9fVU/0AAD/sfv18vQAAB8RsS8vDwAAHxERLy8PAADw8R8vLw8AAAAfES8vDwAAAPD/Ly8PAAAAAAAv/wAAAAAAAPAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bird"
+    },
+    "image2": {
+        "data": "hwQRAAwAAAAAAAD/AAAAAAAA/7EPAAAAAPD1Ef8AAAAA3/URTw8AAPBd9RFPDwAA8F31sU/0AADfVVX/RPQAAN9VVVVE9AAA3/9fVU/0AAD/sfv18vQAAB8RsS8vDwAAHxERLy8PAADw8R8vLw8AAAAfES8vDwAAAPD/Ly8PAAAAAAAv/wAAAAAAAPAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bird2"
+    },
+    "image3": {
+        "data": "hwQQABAAAAB/MzMzMzMz/38zMzMzMzP/fzMzMzMzM/9/MzMzMzMz/38zMzMzMzP/fzMzMzMzM/9/MzMzMzMz/38zMzMzMzP/fzMzMzMzM/9/c3Nzc3Nz/38zNzc3Nzf/f3Nzc3Nzc/9/Mzc3Nzc3/39zd3d3d3f/f3N3d3d3dw//////////Dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pipe1"
+    },
+    "image4": {
+        "data": "hwQQABAAAAD/////////D39zd3d3d3cPf3N3d3d3d/9/c3d3d3d3/38zMzMzMzP/fzMzMzMzM/9/d3d3d3d3/393d3d3d3f/f3d3d3d3d/9/d3d3d3d3/393d3d3d3f/fzMzMzMzM/9/c3d3d3d3/39zd3d3d3f/fzMzMzMzM/9/MzMzMzMz/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pipe2"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAA//////////93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3czMzMzMzMzMzMzMzMzMzMzd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3czMzMzMzMzM3d3d3d3d3d3d3d3d3d3d3czMzMzMzMzMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pipe3"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzNzc3Nzc3Nzdzc3Nzc3Nzczc3Nzc3Nzc3d3d3d3d3d3d3d3d3d3d3d///////////AAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pipe4"
+    },
+    "image7": {
+        "data": "hwQQABAAAAD/MzMzMzMz9/8zMzMzMzP3/zMzMzMzM/f/MzMzMzMz9/8zMzMzMzP3/zMzMzMzM/f/MzMzMzMz9/8zMzMzMzP3/zMzMzMzM/f/Nzc3Nzc39/9zc3NzczP3/zc3Nzc3N/f/c3Nzc3Mz9/93d3d3dzf38Hd3d3d3N/fw/////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pipe5"
+    },
+    "image8": {
+        "data": "hwQQABAAAADw//////////B3d3d3dzf3/3d3d3d3N/f/d3d3d3c39/8zMzMzMzP3/zMzMzMzM/f/d3d3d3d39/93d3d3d3f3/3d3d3d3d/f/d3d3d3d39/93d3d3d3f3/zMzMzMzM/f/d3d3d3c39/93d3d3dzf3/zMzMzMzM/f/MzMzMzMz9w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pipe6"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "noTexture"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bird1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
